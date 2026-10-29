@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.circle {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    top: 50px;
+}
+
+.one {
+    left: 50px;
+    background-color: aqua;
+}
+
+.two {
+    left: 250px;
+    background-color: brown;
+}
+
+.three {
+    left: 450px;
+    background-color: indianred;
+}
